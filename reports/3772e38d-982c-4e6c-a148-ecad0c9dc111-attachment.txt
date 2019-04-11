@@ -1,0 +1,5 @@
+assert 'Sign in [Jenkins]' == 'actiTIME - Login'
+  - Sign in [Jenkins]
+  + actiTIME - Login
+C:/Users/Hareesh/PycharmProjects/Automation_POM_6/test_logout_11-04-2019_20-55-50.png
+in finally block
